@@ -1,0 +1,4 @@
+- insert:
+    - id: dsh-wallpaper
+      name: '@local/dsh-wallpaper'
+      config: {}
